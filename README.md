@@ -13,7 +13,7 @@ rtt min/avg/max/mdev = 16.122/17.413/18.705/1.291 ms
 
 Получение доступа root-пользователя
 
-hello@hellovm:~$ sudo -i
+hello@hellovm:~$ sudo -i 
 [sudo] password for hello: 
 root@hellovm:~# 
 
